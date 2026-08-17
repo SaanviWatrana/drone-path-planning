@@ -1,3 +1,5 @@
+![Autonomous Multi-Agent Drone Navigation System](assets/drone-navigation-banner.png)
+
 # Autonomous Multi-Agent Drone Navigation System
 
 A modular Python-based simulation of autonomous drone navigation in dynamic environments, combining **A* global path planning, obstacle perception, safety monitoring, path smoothing, motion control, and multi-agent task allocation**.
