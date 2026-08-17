@@ -62,11 +62,11 @@ The system follows a modular robotics architecture inspired by ROS/ROS2 design p
                     └──────────────────────┘
 
        ┌─────────────────────────────────────────────┐
-       │             Perception Pipeline              │
+       │             Perception Pipeline             │
        │                                             │
        │  LiDAR → Perception → Obstacle Prediction   │
-       │                         ↓                    │
-       │                      Costmap                 │
+       │                         ↓                   │
+       │                      Costmap                │
        └──────────────────────┬──────────────────────┘
                               │
                               ▼
