@@ -278,7 +278,7 @@ The simulator provides a real-time visual environment for testing autonomous dro
 
 🎥 Full Demo
 
-▶️ Watch the Full Drone Navigation Demo
+[▶️ Watch the Full Drone Navigation Demo](assets/drone-navigation-demo.mp4)
 
 The demonstration shows the navigation system operating in a dynamic simulated environment with autonomous agents, obstacles, planned paths, and real-time safety behavior.
 
