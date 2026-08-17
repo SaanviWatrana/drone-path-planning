@@ -270,22 +270,29 @@ A Pygame simulation window will launch and display the navigation environment.
 ---
 
 ## 🖥️ Simulation
+🖥️ Simulation Demo
 
-The simulator provides a visual environment for observing the navigation system in operation.
+The simulator provides a real-time visual environment for testing autonomous drone navigation, path planning, obstacle perception, and safety behavior.
 
-The environment can contain:
+🎥 Full Demo
 
-* Drones
-* Static obstacles
-* Dynamic obstacles
-* Navigation goals
-* Planned paths
-* Sensor/perception information
-* Real-time movement
+▶️ Watch the Full Drone Navigation Demo
 
-The simulation provides a practical environment for experimenting with **path planning, perception, obstacle avoidance, and autonomous navigation concepts** without requiring physical robotics hardware.
+The demonstration shows the navigation system operating in a dynamic simulated environment with autonomous agents, obstacles, planned paths, and real-time safety behavior.
 
----
+Simulation Environment
+
+The simulator includes:
+
+Autonomous drone navigation
+Grid-based environment
+Static and dynamic obstacles
+Planned navigation paths
+Real-time obstacle handling
+Safety state monitoring
+Multi-agent navigation behavior
+
+Note: The demo video is included directly in the repository under assets/.
 
 ## 🧠 Engineering Concepts Demonstrated
 
